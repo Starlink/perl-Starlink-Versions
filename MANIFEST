@@ -1,7 +1,7 @@
 MANIFEST
 META.yml
-Makefile.PL
-Versions.pm
+Build.PL
+lib/Starlink/Versions.pm
 starversion
 t/datestamp.t
 t/manifest.t
