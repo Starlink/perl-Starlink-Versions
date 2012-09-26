@@ -1,4 +1,4 @@
-#!perl -w
+#!/usr/bin/env starperl -w
 
 # starversion - report version number of a Starlink package
 
@@ -19,7 +19,7 @@ use Pod::Usage;
 # Globals
 use vars qw/ $VERSION /;
 
-$VERSION = '0.06';
+$VERSION = '0.07';
 
 # Parse options
 my %options = ();
