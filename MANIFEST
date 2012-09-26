@@ -1,6 +1,5 @@
 MANIFEST
 README.md
-META.yml
 Build.PL
 lib/Starlink/Versions.pm
 starversion
