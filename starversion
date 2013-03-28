@@ -1,4 +1,4 @@
-#!/usr/bin/env starperl -w
+#!/usr/bin/env starperl
 
 # starversion - report version number of a Starlink package
 
